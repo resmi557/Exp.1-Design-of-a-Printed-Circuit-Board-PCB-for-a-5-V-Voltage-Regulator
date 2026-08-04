@@ -22,6 +22,7 @@ Circuit Diagram
 
 
 
+<img width="1322" height="931" alt="image" src="https://github.com/user-attachments/assets/679081ea-3130-4081-9d5e-573ac2ad211d" />
 
 
 
@@ -50,6 +51,9 @@ Output:
 
 
 
+
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/dc2b060d-3522-4df1-9b6b-7a8d312b4499" />
+<img width="1918" height="1113" alt="image" src="https://github.com/user-attachments/assets/dfbe8036-fb7b-4cde-a64f-30dddedbe52f" />
 
 
 
