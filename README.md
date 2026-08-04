@@ -43,6 +43,9 @@ Procedure
 8.Define the board outline.
 9.Route all PCB tracks using the required track width.
 10.Create a copper fill (ground plane) connected to GND.
+11.Run the Design Rule Checker (DRC) and correct any reported violations.
+12.Add reference designators, board title, and revision information.
+Generate Gerber files and drill files for PCB fabrication.
 
 Output:
 
@@ -80,6 +83,4 @@ The PCB layout for the 5 V Voltage Regulator was successfully designed in KiCad.
 
 
 
-11.Run the Design Rule Checker (DRC) and correct any reported violations.
-12.Add reference designators, board title, and revision information.
-Generate Gerber files and drill files for PCB fabrication.
+
